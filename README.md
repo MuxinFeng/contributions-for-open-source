@@ -9,15 +9,15 @@
 
 ## PR
 
-### 🎶🎶 [semi-design](https://github.com/DouyinFE/semi-design)
+### 🎶🎶 [semi-design](https://github.com/DouyinFE/semi-design)![star](https://img.shields.io/github/stars/DouyinFE/semi-design.svg)
 
 1. [https://github.com/DouyinFE/semi-design/pull/810](https://github.com/DouyinFE/semi-design/pull/810)
 
-### 🐜💻 [antd-design](https://github.com/ant-design/ant-design)
+### 🐜💻 [antd-design](https://github.com/ant-design/ant-design)![star](https://img.shields.io/github/stars/ant-design/ant-design.svg)
 
 1. [https://github.com/ant-design/ant-design/pull/35975](https://github.com/ant-design/ant-design/pull/35975)
 
-### 🐜📱 [antd-design-mobile](https://github.com/ant-design/ant-design-mobile)
+### 🐜📱 [antd-design-mobile](https://github.com/ant-design/ant-design-mobile)![star](https://img.shields.io/github/stars/ant-design/ant-design-mobile.svg)
 
 1. [https://github.com/ant-design/ant-design-mobile/pull/5491](https://github.com/ant-design/ant-design-mobile/pull/5491)
 2. [https://github.com/ant-design/ant-design-mobile/pull/5486](https://github.com/ant-design/ant-design-mobile/pull/5486)
