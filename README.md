@@ -14,9 +14,11 @@
 1. [fix: InputNumber return default value when entry illegal character wi…](https://github.com/DouyinFE/semi-design/pull/810)
 2. [feat: [Skeleton] add shape attributes for `Skeleton.Avatar`](https://github.com/DouyinFE/semi-design/pull/1119)
 
+
 ### 🐜💻 [antd-design](https://github.com/ant-design/ant-design)![star](https://img.shields.io/github/stars/ant-design/ant-design.svg)
 
 1. [fix: Button has no disabled style when link type , using extra class](https://github.com/ant-design/ant-design/pull/35975)
+
 
 ### 🐜📱 [antd-design-mobile](https://github.com/ant-design/ant-design-mobile)![star](https://img.shields.io/github/stars/ant-design/ant-design-mobile.svg)
 
@@ -34,6 +36,7 @@
 ### 🐜📱 [antd-design-mobile](https://github.com/ant-design/ant-design-mobile)![star](https://img.shields.io/github/stars/ant-design/ant-design-mobile.svg)
 
 1. [Slider 滑动输入条，启用 popover 属性后默认能否自动显示？](https://github.com/ant-design/ant-design-mobile/issues/5637)
+
 
 ### 🎶🎶 [semi-design](https://github.com/DouyinFE/semi-design)![star](https://img.shields.io/github/stars/DouyinFE/semi-design.svg)
 
