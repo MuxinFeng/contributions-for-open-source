@@ -9,7 +9,7 @@
 
 ## PR
 
-### 🎶🎶 [semi-design](https://github.com/DouyinFE/semi-design)![star](https://img.shields.io/github/stars/DouyinFE/semi-design.svg)
+### 🥗🥗 [semi-design](https://github.com/DouyinFE/semi-design)![star](https://img.shields.io/github/stars/DouyinFE/semi-design.svg)
 
 1. [fix: InputNumber return default value when entry illegal character wi…](https://github.com/DouyinFE/semi-design/pull/810)
 2. [feat: [Skeleton] add shape attributes for `Skeleton.Avatar`](https://github.com/DouyinFE/semi-design/pull/1119)
@@ -38,6 +38,6 @@
 1. [Slider 滑动输入条，启用 popover 属性后默认能否自动显示？](https://github.com/ant-design/ant-design-mobile/issues/5637)
 
 
-### 🎶🎶 [semi-design](https://github.com/DouyinFE/semi-design)![star](https://img.shields.io/github/stars/DouyinFE/semi-design.svg)
+### 🥗🥗 [semi-design](https://github.com/DouyinFE/semi-design)![star](https://img.shields.io/github/stars/DouyinFE/semi-design.svg)
 
 1. [[BUG] Skeleton Use with Avatar, exist ts type error](https://github.com/DouyinFE/semi-design/issues/1117)
