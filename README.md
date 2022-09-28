@@ -36,8 +36,10 @@
 ### 🐜📲 [antd-design-mobile](https://github.com/ant-design/ant-design-mobile)![star](https://img.shields.io/github/stars/ant-design/ant-design-mobile.svg)
 
 1. [Slider 滑动输入条，启用 popover 属性后默认能否自动显示？](https://github.com/ant-design/ant-design-mobile/issues/5637)
+2. [Picker PickerView等组件能否支持一下number类型...](https://github.com/ant-design/ant-design-mobile/issues/5688)
 
 
 ### 🥗🥗 [semi-design](https://github.com/DouyinFE/semi-design)![star](https://img.shields.io/github/stars/DouyinFE/semi-design.svg)
 
 1. [[BUG] Skeleton Use with Avatar, exist ts type error](https://github.com/DouyinFE/semi-design/issues/1117)
+
