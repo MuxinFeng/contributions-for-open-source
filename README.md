@@ -26,6 +26,7 @@
 4. [feat(Selector): add some gap related CSS variables ](https://github.com/ant-design/ant-design-mobile/pull/5554)
 5. [doc(SearchBar): add FAQ about Search Button text](https://github.com/ant-design/ant-design-mobile/pull/5563)
 6. [feat(Slider): add `residentPopover` prop](https://github.com/ant-design/ant-design-mobile/pull/5662)
+7. [feat(ImageUploader): add another layout mode by `grid`](https://github.com/ant-design/ant-design-mobile/pull/5728)
 
 ## issue
 
@@ -34,6 +35,7 @@
 ### 🐜📱 [antd-design-mobile](https://github.com/ant-design/ant-design-mobile)![star](https://img.shields.io/github/stars/ant-design/ant-design-mobile.svg)
 
 1. [Slider 滑动输入条，启用 popover 属性后默认能否自动显示？](https://github.com/ant-design/ant-design-mobile/issues/5637)
+2. [建议 ImageUploader 内 Item 组件由 Space 替换成 Grid 组件！](https://github.com/ant-design/ant-design-mobile/issues/5702)
 
 ### 🎶🎶 [semi-design](https://github.com/DouyinFE/semi-design)![star](https://img.shields.io/github/stars/DouyinFE/semi-design.svg)
 
