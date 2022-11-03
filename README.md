@@ -22,7 +22,7 @@
 
 1. [fix(useResizeEffect): avoid ResizeObserver loop limit exceeded error](https://github.com/ant-design/ant-design-mobile/pull/5491)
 2. [feat(Form): add new requiredMarkStyle option `none`](https://github.com/ant-design/ant-design-mobile/pull/5486)
-3. [doc(ImageUploader): some Android phones do not support capture](https://github.com/ant-design/ant-design-mobile/pull/5542)
+3. [doc(ImageUploader): some `Android` phones do not support capture](https://github.com/ant-design/ant-design-mobile/pull/5542)
 4. [feat(Selector): add some gap related CSS variables ](https://github.com/ant-design/ant-design-mobile/pull/5554)
 5. [doc(SearchBar): add FAQ about Search Button text](https://github.com/ant-design/ant-design-mobile/pull/5563)
 6. [feat(Slider): add `residentPopover` prop](https://github.com/ant-design/ant-design-mobile/pull/5662)
